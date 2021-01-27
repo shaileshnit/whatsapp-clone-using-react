@@ -71,8 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Whatsapp-Clone App
 
-![alt text](https://github.com/shaileshnit/whatsapp-clone/blob/master/Demo%20Images/Login_Through_Google.PNG?raw=true)
+![alt text](https://github.com/shaileshnit/whatsapp-clone-using-react/blob/master/Demo%20Images/login.png?raw=true)
 
 <br>
 
-![alt text](https://github.com/shaileshnit/whatsapp-clone/blob/master/Demo%20Images/Whatsapp-mainpage.PNG?raw=true)
+![alt text](https://github.com/shaileshnit/whatsapp-clone-using-react/blob/master/Demo%20Images/home.png?raw=true)
+
+<br>
+
+![alt text](https://github.com/shaileshnit/whatsapp-clone-using-react/blob/master/Demo%20Images/chats.PNG?raw=true)
